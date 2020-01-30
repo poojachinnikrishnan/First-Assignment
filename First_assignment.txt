@@ -1,5 +1,5 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
-
+As I have learned only the basic level of bioinformatics I am interested to learn it in an advanced level and it's other applications in the real time practices so that it will help me to build a better CV and also gives idea for any projects to do in the field of bioinformatics.
 
 
 
@@ -10,3 +10,4 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+I Expect to gain more skills on bioinformatics and coding languages.
